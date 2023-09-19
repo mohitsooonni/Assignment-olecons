@@ -1,5 +1,4 @@
 import React from "react";
-import Navbar from "../../components/Navbar/Navbar";
 import About from "../About/About";
 import Container from "../../components/Container/Container";
 import JoinCommunity from "../../components/JoinCommunity/JoinCommunity";
@@ -9,7 +8,6 @@ import Testimonial from "../Testimonials/Testimonial";
 const Home = () => {
   return (
     <>
-      <Navbar className="navbar" />
       <Container />
       <About />
       <JoinCommunity />
