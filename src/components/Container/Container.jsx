@@ -4,12 +4,14 @@ import arrow from "../../Images/arrow.svg";
 import Homepage_girl from "../../Images/Homepage_girl.png";
 import { Link } from "react-router-dom";
 import { useTranslation } from "react-i18next";
+import Navbar from "../../components/Navbar/Navbar";
 
 const Container = () => {
   const { t } = useTranslation();
 
   return (
     <>
+      <Navbar />
       <div className="container"></div>
       <div className="contents">
         <div className="text">
