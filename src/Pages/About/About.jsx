@@ -10,8 +10,8 @@ const About = () => {
   const { t } = useTranslation();
   return (
     <>
+     <Navbar />
       <div className="about-container">
-        <Navbar />
         <div className="about-container-left">
           <div className="about-container-left-main">
             <p className="heading">
