@@ -1,0 +1,136 @@
+{
+  "navbar": {
+    "home": "Home",
+    "aboutUs": "About Us",
+    "mentors": "Mentors",
+    "sessions": "Sessions",
+    "signUp": "Sign Up",
+    "Lang": "Language"
+  },
+  "container": {
+    "heading": "Unlock your potential and empower others to achieve success.",
+    "getStarted": "Get Started as a Mentor",
+    "learnMore": "Learn More"
+  },
+  "about": {
+    "heading": "At Mentor Hub",
+    "para": "We believe in the power of mentorship. We provide a platform where inspirational individuals like you can share your expertise and make a positive impact on others. Whether you are an experienced professional, an industry expert, or a budding entrepreneur, Mentor Hub offers you the opportunity to connect with mentees, guide them on their journey, and shape their future.",
+    "learnMore": "Learn More"
+  },
+  "card": {
+    "readMore": "Read More"
+  },
+  "data": {
+    "0": {
+      "name": "Business and Entrepreneurship",
+      "desc": "Dive into the world of business and entrepreneurship. Our mentors in this field can provide valuable insights on business strategy, marketing, finance, startups, leadership, and innovation."
+    },
+    "1": {
+      "name": "Arts and Creativity",
+      "desc": "Nurture your potential in arts and creativity. Whether you are passionate about visual arts, writing, music, photography, or performing arts, our mentors can offer you essential guidance and inspiration."
+    },
+    "2": {
+      "name": "Technology",
+      "desc": "Enhance your skills in the ever-evolving field of technology. Our technology mentors can guide you in software development, web design, data science, cybersecurity, artificial intelligence, and other areas."
+    }
+  },
+  "explore": {
+    "heading": "Explore Various Mentorship Fields",
+    "findYourMentor": "Find Your Mentor"
+  },
+  "footer": {
+    "pages": "Pages",
+    "aboutUs": "About Us",
+    "mentors": "Mentors",
+    "sessions": "Sessions",
+    "signUp": "Sign Up",
+    "contact": "Contact",
+    "address": "123 Main Street, City State 12345",
+    "email": "contact@mentorhub.com",
+    "phone": "(123) 456 - 7890",
+    "allRightsReserved": "© 2023 Mentor Hub. All rights reserved."
+  },
+  "joinCommunity": {
+    "heading": "Join Our Community of Members",
+    "content": "Becoming a mentor on Mentor Hub is fast and easy. Follow these steps to get started.",
+    "learnMore": "Learn More"
+  },
+  "cardData": {
+    "0": {
+      "name": "Shalini",
+      "role": "Software Developer"
+    },
+    "1": {
+      "name": "Rekha Sekar, Manager",
+      "role": "Manager"
+    },
+    "2": {
+      "name": "Deepak",
+      "role": "UX Designer"
+    },
+    "3": {
+      "name": "Navin",
+      "role": "Architect"
+    },
+    "4": {
+      "name": "Sofia",
+      "role": "Business Strategist"
+    },
+    "5": {
+      "name": "Madhumita",
+      "role": "Content Writer"
+    },
+    "6": {
+      "name": "Nirmal",
+      "role": "Electrical Engineer"
+    },
+    "7": {
+      "name": "Lokesh",
+      "role": "Software Engineer"
+    }
+  },
+  "mentors": {
+    "ourMentors": "Our Mentors"
+  },
+  "signup": {
+    "personalInformation": "Personal Information:",
+    "uploadPhoto": "Upload Photo",
+    "fullName": "Full Name",
+    "emailAddress": "Email Address",
+    "phoneNumber": "Phone Number",
+    "dob": "Date of Birth",
+    "areasOfExpertise": "Areas of Expertise:",
+    "category": "Category",
+    "category2": "Category 2",
+    "category3": "Category 3",
+    "subCategory": "Sub-Category",
+    "subCategory2": "Sub-Category 2",
+    "subCategory3": "Sub-Category 3",
+    "availability": "Availability:",
+    "availableDays": "Available Days",
+    "aboutExperience": "About Experience:",
+    "register": "Register"
+  },
+
+  "testimonial": {
+    "heading": "Hear from Our Mentors",
+    "testimonials": [
+      {
+        "name": "Malini Sinha",
+        "loc": "Chennai, India",
+        "desc": "\"Being a mentor on Mentor Hub has been an extremely rewarding experience. I've had the opportunity to share my knowledge and guide enthusiastic professionals on their career journeys.\""
+      },
+      {
+        "name": "Archana Nair",
+        "loc": "Kerala, India",
+        "desc": "\"Mentor Hub has exceeded my expectations. The user-friendly platform and beautiful profile customization options have allowed me to showcase my expertise and build trust with mentees.\""
+      },
+      {
+        "name": "Deepak Dinesh",
+        "loc": "Chennai, India",
+        "desc": "\"Registering as a mentor on Mentor Hub has been a fantastic experience for me. I mentor students in their careers and education, and I look forward to working with even more students through this platform.\""
+      }
+    ],
+    "readMore": "Read More"
+  }
+}

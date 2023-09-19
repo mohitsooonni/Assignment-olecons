@@ -1,0 +1,125 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@600&family=Open+Sans&family=Poppins:wght@600&display=swap");
+
+.container {
+  margin: 0;
+  padding: 0;
+  height: 839px;
+  background-color: #00467c;
+  width: 30%;
+  float: right;
+  right: 0;
+  left: 1066px;
+  top: 0;
+  position: absolute;
+  border-bottom-left-radius: 20%;
+}
+
+.contents {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  background-color: inherit;
+  align-items: center;
+  width: 70%;
+  right: 250px;
+  left: 60px;
+  position: relative;
+
+  .text {
+    padding: auto;
+    margin: auto;
+    display: flex;
+    justify-content: flex-start;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 20px;
+    width: 70%;
+
+    .heading {
+      display: flex;
+      flex-direction: column;
+      justify-content: flex-start;
+      align-items: flex-start;
+
+      p {
+        font-family: "Montserrat", sans-serif;
+        color: #1e1e1e;
+        text-align: left;
+        font-size: 48px;
+        line-height: normal;
+        letter-spacing: -0.72px;
+        span {
+          color: #00467c;
+          font-size: 60px;
+        }
+      }
+    }
+    .buttons {
+      display: flex;
+      flex-direction: row;
+      justify-content: space-between;
+      align-items: center;
+      gap: 62px;
+
+      button:first-child {
+        border-radius: 18px;
+        background: var(--blue, #00487c);
+        box-shadow: 0px 10px 20px 0px rgba(192, 192, 192, 0.35);
+        display: flex;
+        padding: 26px 60px;
+        justify-content: center;
+        align-items: center;
+        gap: 10px;
+        color: #fff;
+        text-align: center;
+
+        font-family: "Poppins", sans-serif;
+        font-size: 18px;
+        line-height: 125%;
+        letter-spacing: 0.36px;
+        a {
+          background: var(--blue, #00487c);
+          text-decoration: none;
+          color: #fff;
+          gap: 30px;
+        }
+        img {
+          background: var(--blue, #00487c);
+        }
+      }
+      button:last-child {
+        border-radius: 18px;
+        border: 1px solid #00a896;
+        background: #fff;
+        box-shadow: 0px 10px 20px 0px rgba(192, 192, 192, 0.35);
+        display: flex;
+        padding: 26px 31px;
+
+        justify-content: center;
+        align-items: center;
+        gap: 10px;
+        color: #00487c;
+        text-align: center;
+        font-family: "Poppins", sans-serif;
+        font-size: 18px;
+        line-height: 125%;
+        letter-spacing: 0.36px;
+        a {
+          text-decoration: none;
+          background: #fff;
+          color: #00487c;
+        }
+        img {
+          background: #fff;
+        }
+      }
+    }
+  }
+  .girl-image {
+    position: relative;
+    width: 408px;
+    height: 562px;
+    padding-top: 50px;
+    left: 135px;
+  }
+}

@@ -1,0 +1,120 @@
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans&display=swap");
+
+.footer {
+  .footer-container {
+    height: 100%;
+    background: #f5f5f5;
+    // margin: 36px 220px 36px 220px;
+    left: 220px;
+    width: 100wh;
+    right: 220px;
+    padding-left: 200px;
+    padding-right: 200px;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+
+    .main-footer {
+      display: flex;
+      flex-direction: row;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      margin-bottom: 0;
+
+      .logo {
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        align-items: flex-start;
+        gap: 45px;
+        flex-wrap: wrap;
+
+        img {
+          margin-top: 0px;
+        }
+        .socials {
+          margin-bottom: 90px;
+          display: flex;
+          flex-direction: row;
+          justify-content: space-between;
+          align-items: center;
+          gap: 54px;
+          flex-wrap: wrap;
+          a {
+            text-decoration: none;
+            color: black;
+          }
+        }
+      }
+
+      .pages {
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        flex-wrap: wrap;
+        margin-top: 10px;
+
+        h3 {
+          font-weight: 700;
+          font-size: 22px;
+          line-height: 33px;
+          color: var(--blue, #00487c);
+          font-family: "Open Sans", sans-serif;
+        }
+        ul {
+          padding-left: 0;
+          display: inline;
+
+          li {
+            list-style: none;
+            font-family: "Open Sans", sans-serif;
+            font-weight: 400;
+            margin-bottom: 20px;
+            a {
+              text-decoration: none;
+              color: black;
+            }
+          }
+        }
+      }
+
+      .contact {
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        flex-wrap: wrap;
+
+        h3 {
+          font-weight: 700;
+          font-size: 22px;
+          line-height: 33px;
+          color: var(--blue, #00487c);
+          font-family: "Open Sans", sans-serif;
+        }
+        ul {
+          padding-left: 0;
+          display: inline;
+
+          li {
+            list-style: none;
+            font-family: "Open Sans", sans-serif;
+            font-weight: 400;
+            margin-bottom: 30px;
+            a {
+              text-decoration: none;
+              color: black;
+            }
+          }
+        }
+      }
+
+      p {
+        text-align: left;
+        font-family: "Open Sans", sans-serif;
+        font-weight: 400;
+      }
+    }
+  }
+}

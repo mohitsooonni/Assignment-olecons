@@ -1,0 +1,136 @@
+{
+  "navbar": {
+    "home": "Accueil",
+    "aboutUs": "À propos de nous",
+    "mentors": "Mentors",
+    "sessions": "Sessions",
+    "signUp": "S'inscrire",
+    "Lang": "Langue"
+  },
+  "container": {
+    "heading": "Déverrouillez votre potentiel et donnez les moyens aux autres d'atteindre le succès.",
+    "getStarted": "Commencez en tant que Mentor",
+    "learnMore": "En savoir plus"
+  },
+  "about": {
+    "heading": "Chez Mentor Hub",
+    "para": "Nous croyons au pouvoir du mentorat. Nous fournissons une plateforme où des personnes inspirantes comme vous peuvent partager leur expertise et avoir un impact positif sur les autres. Que vous soyez un professionnel expérimenté, un expert de l'industrie ou un entrepreneur en herbe, Mentor Hub vous offre la possibilité de vous connecter avec des mentorés, de les guider dans leur parcours et de façonner leur avenir.",
+    "learnMore": "En savoir plus"
+  },
+  "card": {
+    "readMore": "Lire la suite"
+  },
+  "data": {
+    "0": {
+      "name": "Entrepreneuriat et Affaires",
+      "desc": "Plongez dans le monde de l'entrepreneuriat et des affaires. Nos mentors dans ce domaine peuvent fournir des informations précieuses sur la stratégie commerciale, le marketing, la finance, les start-ups, le leadership et l'innovation."
+    },
+    "1": {
+      "name": "Arts et Créativité",
+      "desc": "Développez votre potentiel dans les arts et la créativité. Que vous soyez passionné par les arts visuels, l'écriture, la musique, la photographie ou les arts du spectacle, nos mentors peuvent vous offrir des conseils essentiels et de l'inspiration."
+    },
+    "2": {
+      "name": "Technologie",
+      "desc": "Améliorez vos compétences dans le domaine en constante évolution de la technologie. Nos mentors en technologie peuvent vous guider dans le développement de logiciels, la conception web, la science des données, la cybersécurité, l'intelligence artificielle et d'autres domaines."
+    }
+  },
+  "explore": {
+    "heading": "Explorez Divers Domaines de Mentorat",
+    "findYourMentor": "Trouvez Votre Mentor"
+  },
+  "footer": {
+    "pages": "Pages",
+    "aboutUs": "À propos de nous",
+    "mentors": "Mentors",
+    "sessions": "Sessions",
+    "signUp": "S'inscrire",
+    "contact": "Contact",
+    "address": "123 Rue Principale, Ville État 12345",
+    "email": "contact@mentorhub.com",
+    "phone": "(123) 456 - 7890",
+    "allRightsReserved": "© 2023 Mentor Hub. Tous droits réservés."
+  },
+  "joinCommunity": {
+    "heading": "Rejoignez Notre Communauté de Membres",
+    "content": "Devenir mentor sur Mentor Hub est rapide et facile. Suivez ces étapes pour commencer.",
+    "learnMore": "En savoir plus"
+  },
+  "cardData": {
+    "0": {
+      "name": "Shalini",
+      "role": "Développeur de logiciels"
+    },
+    "1": {
+      "name": "Rekha Sekar, Gestionnaire",
+      "role": "Gestionnaire"
+    },
+    "2": {
+      "name": "Deepak",
+      "role": "Concepteur UX"
+    },
+    "3": {
+      "name": "Navin",
+      "role": "Architecte"
+    },
+    "4": {
+      "name": "Sofia",
+      "role": "Stratège d'entreprise"
+    },
+    "5": {
+      "name": "Madhumita",
+      "role": "Rédacteur de contenu"
+    },
+    "6": {
+      "name": "Nirmal",
+      "role": "Ingénieur électrique"
+    },
+    "7": {
+      "name": "Lokesh",
+      "role": "Ingénieur logiciel"
+    }
+  },
+  "mentors": {
+    "ourMentors": "Nos Mentors"
+  },
+  "signup": {
+    "personalInformation": "Informations Personnelles :",
+    "uploadPhoto": "Télécharger une Photo",
+    "fullName": "Nom Complet",
+    "emailAddress": "Adresse E-mail",
+    "phoneNumber": "Numéro de Téléphone",
+    "dob": "Date de Naissance",
+    "areasOfExpertise": "Domaines d'Expertise :",
+    "category": "Catégorie",
+    "category2": "Catégorie 2",
+    "category3": "Catégorie 3",
+    "subCategory": "Sous-Catégorie",
+    "subCategory2": "Sous-Catégorie 2",
+    "subCategory3": "Sous-Catégorie 3",
+    "availability": "Disponibilité :",
+    "availableDays": "Jours Disponibles",
+    "aboutExperience": "À Propos de l'Expérience :",
+    "register": "S'Inscrire"
+  },
+
+  "testimonial": {
+    "heading": "Témoignages de Nos Mentors",
+    "testimonials": [
+      {
+        "name": "Malini Sinha",
+        "loc": "Chennai, Inde",
+        "desc": "\"Être mentor sur Mentor Hub a été une expérience extrêmement enrichissante. J'ai eu l'occasion de partager mes connaissances et de guider des professionnels enthousiastes dans leur carrière.\""
+      },
+      {
+        "name": "Archana Nair",
+        "loc": "Kérala, Inde",
+        "desc": "\"Mentor Hub a dépassé mes attentes. La plateforme conviviale et les magnifiques options de personnalisation de profil m'ont permis de mettre en avant mon expertise et de gagner la confiance des mentorés.\""
+      },
+      {
+        "name": "Deepak Dinesh",
+        "loc": "Chennai, Inde",
+        "desc": "\"M'inscrire en tant que mentor sur Mentor Hub a été une expérience fantastique pour moi. J'accompagne des étudiants dans leur carrière et leur éducation, et j'ai hâte de travailler avec encore plus d'étudiants grâce à cette plateforme.\""
+      }
+    ],
+    "readMore": "Lire la suite"
+  }
+}
