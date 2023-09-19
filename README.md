@@ -1,4 +1,3 @@
-Live Deployment: https://freshly-brewed-assignment-intern.netlify.app/
 
 # Getting Started with Create React App
 
