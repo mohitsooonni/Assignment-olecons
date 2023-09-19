@@ -3,6 +3,7 @@ import "./About.scss";
 import { Link } from "react-router-dom";
 import about from "../../Images/About.jpg";
 import arrow from "../../Images/arrow.svg";
+import Navbar from "../../components/Navbar/Navbar";
 import { useTranslation } from "react-i18next";
 
 const About = () => {
@@ -10,6 +11,7 @@ const About = () => {
   return (
     <>
       <div className="about-container">
+        <Navbar />
         <div className="about-container-left">
           <div className="about-container-left-main">
             <p className="heading">
